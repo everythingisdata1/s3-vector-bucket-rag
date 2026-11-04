@@ -1,0 +1,132 @@
+Bharat Singh
+Principal Engineer | Cloud-Native | Distributed Systems | AI/GenAI | Java| Python
++91 9528132119 | bharatmca2010@gmail.com
+Hands-on Principal Engineer with 15+ years of experience designing, developing, and delivering
+cloud-native, distributed, data-intensive, and AI-enabled enterprise platforms across banking, aviation,
+healthcare, and government domains.
+● Strong experience in Java, Spring Boot, Python, and FastAPI, building backend services,
+REST APIs, microservices, and distributed data-processing workflows.
+● Experienced in designing scalable, reliable, secure, and maintainable cloud-native platforms,
+microservices, event-driven systems, and multi-tenant applications.
+● Hands-on experience with AWS, Kubernetes, Apache Spark/PySpark, Airflow, Iceberg, and Trino
+for cloud infrastructure, data processing, and platform engineering.
+● Experienced in production support, root-cause analysis, performance tuning, infrastructure
+optimization, CI/CD, and improving system reliability.
+● Experience developing AI/ML solutions and exploring LLM-powered applications, RAG, and
+agentic workflows using Python, LangChain, and LangGraph.
+● Combines architecture and technical decision-making with coding, implementation, testing,
+deployment, troubleshooting, and continuous improvement.
+
+
+CORE TECHNICAL SKILLS
+Languages & Backend: Java, Python, Spring Boot, Flask, FastAPI, Hibernate/JPA, REST APIs,
+GraphQL
+Cloud & Platform Engineering: AWS (EKS, ECS/Fargate, Lambda, S3, RDS, API Gateway, IAM,
+CloudWatch), Kubernetes, Docker, Helm
+Architecture & Design: Distributed Systems, Microservices, Event-Driven Architecture, Multi-Tenant
+Platforms, API Design, Non-Functional Requirements (NFRs)
+Data Engineering & Analytics: Apache Spark/PySpark, Apache Airflow, Apache Iceberg, Trino,
+Parquet, PostgreSQL, Oracle, MySQL, Hive Metastore
+AI & Generative AI: LLMs, Retrieval-Augmented Generation (RAG), LangGraph, LangChain, OpenAI
+SDK, Agentic Workflows, Machine Learning, Computer Vision
+Messaging & Streaming: Apache Kafka, AWS Kinesis, RabbitMQ
+DevOps & Infrastructure: Terraform, Infrastructure as Code (IaC), CI/CD, Azure DevOps,
+SonarQube, Maven
+Tools & Frontend: GitHub, JIRA, Postman, Angular, AngularJS
+
+
+PROFESSIONAL EXPERIENCE
+Lead Developer / Technical Lead | Standard Chartered Bank Jul 2023 – Present | Singapore
+Scenario-Based Analysis Platform (SBAP)
+Enterprise-grade regulatory stress testing and risk analytics platform built on AWS, supporting climate risk
+assessment, recovery and resolution planning, and advanced scenario simulations. The platform
+generates long-term analytical reports with 5-, 20-, and 30-year projections for secured and unsecured
+portfolio models, enabling accurate risk evaluation, regulatory compliance, and data-driven
+decision-making.
+1
+Roles & Responsibilities
+
+
+● Defined platform architecture, NFRs, and technology standards for enterprise stress testing
+platforms.
+● Designed and implemented scalable microservices using Java, Spring Boot, Python, FastAPI,
+Spark, Airflow, Iceberg, Trino, AWS, and Kubernetes.
+● Designed event-driven architectures using Apache Kafka for asynchronous model execution,
+workflow orchestration, status tracking, and integration between distributed platform components.
+● Delivered AI/Agentic AI systems using LangGraph, integrating intelligent workflow orchestration
+and AI capabilities into enterprise platforms.
+● Designed and developed backend services supporting model onboarding, scheduling, execution,
+and reporting workflows.
+● Applied Java, Spring Boot, Python, AWS, and event-driven architecture patterns to support
+distributed platform components.
+● Contributed to platform scalability, security, CI/CD automation, and engineering best practices.
+AI / Agentic AI Initiatives
+● Developed AI-enabled workflow orchestration capabilities using Python and
+LangGraph/Langchain.
+● Integrated LLM-powered workflows into enterprise application processes to support intelligent
+task orchestration.
+Technical Lead Developer | Hitachi Vantara Aug 2021 – Jul 2023| India
+● Led hands-on development of Sysmex BCQMX, a cloud-native healthcare analytics solution
+deployed on AWS ECS Fargate.
+● Implemented backend services and integrations using Java, Spring Boot, and Python; contributed
+to application design, service interfaces, and deployment architecture.
+● Supported containerization, infrastructure automation with Terraform, CI/CD, monitoring, and
+logging to improve deployment consistency and operational visibility.
+● Collaborated with engineering and stakeholder teams to deliver maintainable services and
+resolve technical issues through the development lifecycle.
+● Recognised with a Bronze Award in 2022 for project contribution.
+Java Technical Lead | Flipkart (Robosoft Technologies) May 2020 – Aug 2021/ India
+● Designed and implemented Java/Spring Boot microservices supporting subscription-related
+capabilities and transaction workflows.
+● Developed REST APIs and service integrations, with attention to error handling, reliability,
+maintainability, and integration contracts.
+● Contributed to code reviews, technical design, CI/CD improvements, and delivery coordination
+while remaining involved in implementation and debugging.
+Full Stack Java Developer | Tatweer Jun 2019 – Mar 2020 | Abu Dhabi, UAE
+● Developed a microservices-based AI-enabled Patrolling and analytics platform for Abu Dhabi
+Police.
+
+
+● Built microservices and Angular-based dashboards for real-time monitoring.
+Full Stack Java Developer | Emirates Airline Jan 2015 – Jun 2019 | Dubai, UAE
+● Designed and developed a hybrid microservices-based enterprise platform using Java, Spring
+Boot, and AngularJS to support airline network operations, operational dashboards, and
+forecasting capabilities.
+● Delivered interactive dashboards and forecasting modules for Network Control teams, enhancing
+operational visibility.
+● Coordinated user acceptance testing and managed multi-environment deployments to ensure
+stable production re
+
+leases.
+2
+● Worked on a couple of Machine learning projects: Group Matrization, Cabin Recommender with
+the help of Keras/Tensorflow
+Senior Java Developer | Bureau Veritas May 2011 – Jan 2015 | India / Hong Kong
+● Developed and maintained enterprise Java applications, implementing business features,
+integrations, and application enhancements.
+● Worked with delivery teams to diagnose defects, improve application quality, and support
+releases across business environments.
+● Received internal recognition and quality-related awards during the tenure.
+Java Developer | RoseIndia Technologies Jul 2010 – May 2011 | India
+● Developed Java web applications and foundational enterprise solutions.
+
+
+CERTIFICATIONS
+● AWS Certified AI Practitioner (2026)
+● AWS Certified Developer – Associate
+● AWS Certified Solutions Architect – Associate
+● HashiCorp Certified: Terraform Associate
+● GitHub Copilot Certification
+● Preparing for AWS Certified Generative AI Engineer – Professional
+AWARDS & RECOGNITION
+
+
+● Bronze Award – Sysmex Project, Hitachi (2022)
+● AI Hackathon Winner – Dubai Customs (2019)
+● Hackathon Award – Emirates Group IT (2018)
+● Najam Appreciation Award – Emirates Group (2016)
+● Excellence & Spot Awards – Bureau Veritas (2013–2014)
+EDUCATION
+Master of Computer Applications (MCA)
+Dr. APJ Abdul Kalam University, India | 2010
+3

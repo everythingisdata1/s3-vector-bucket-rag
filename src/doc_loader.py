@@ -1,14 +1,27 @@
-def loal_docs():
-    print("Loading documents.....")
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+
+from src.clients import SEP
+
+
+def load_docs():
+    print(SEP + " Loading documents " + SEP)
 
     with open(".././data/finance.txt", encoding="utf-8") as data:
         txt = data.read()
 
-    docs = [doc.strip()
-            for doc in txt.split("\n\n")
-            if doc.strip()
-            ]
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=500,
+        chunk_overlap=100,
+        separators=["\n\n", "\n", ". ", " ", ""],
+        length_function=len,
+        strip_whitespace=True
+    )
+    chucks = splitter.split_text(txt)
 
-    print(f"Document loaded.. {len(docs)}")
+    print(f"Document loaded.. {len(chucks)}")
 
-    return docs
+    return chucks
+
+
+if __name__ == '__main__':
+    load_docs()
