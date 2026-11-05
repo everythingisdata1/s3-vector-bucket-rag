@@ -5,9 +5,9 @@ version = "0.1.0"
 description = "Amazon S3 Vectors integration for GenAI applications"
 requires-python = ">=3.14"
 dependencies = [
-    "boto3>=1.43.123",
+    "boto3>=1.43.124",
     "dotenv>=0.9.9",
-    "langchain-openai>=1.7.3",
+    "langchain-openai>=1.7.4",
     "langchain-text-splitters>=1.1.3",
 ]
 

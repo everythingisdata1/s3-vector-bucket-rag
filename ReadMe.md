@@ -1,14 +1,14 @@
-# Amazon S3 Vectors as a Vector Database for GenAI Applications
+# AWS S3 Vectors as a Vector Database for GenAI Applications
 
 ## Overview
 
-This project demonstrates how to use **Amazon S3 Vectors as a vector database** for building AI-powered applications.
+This project demonstrates how to use **AWS S3 Vectors as a vector database** for building AI-powered applications.
 
 It provides an end-to-end implementation of document ingestion, text chunking, embedding generation, vector storage, and semantic search using Amazon S3 Vectors.
 
-The project explores integration with OpenAI and AWS Bedrock embedding models, demonstrating how S3 Vectors can be used as a vector storage and retrieval layer in Retrieval-Augmented Generation (RAG) applications.
+The project explores integration with **OpenAI and AWS Bedrock embedding models**, demonstrating how S3 Vectors can be used as a vector storage and retrieval layer in Retrieval-Augmented Generation (RAG) applications.
 
-## Features
+## _Features_
 
 - Create and configure an Amazon S3 Vector Bucket.
 - Create and manage vector indexes.
