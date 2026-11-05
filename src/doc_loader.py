@@ -6,7 +6,7 @@ from src.clients import SEP
 def load_docs():
     print(SEP + " Loading documents " + SEP)
 
-    with open(".././data/finance.txt", encoding="utf-8") as data:
+    with open("../data/data.txt", encoding="utf-8") as data:
         txt = data.read()
 
     splitter = RecursiveCharacterTextSplitter(
