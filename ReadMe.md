@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to use **AWS S3 Vectors as a vector database** for building AI-powered applications.
+This project demonstrates how to use **AWS S3 Vector Bucket as a vector database** for building AI-powered applications.
 
 It provides an end-to-end implementation of document ingestion, text chunking, embedding generation, vector storage, and semantic search using Amazon S3 Vectors.
 
